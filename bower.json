@@ -1,0 +1,25 @@
+{
+  "name": "multiproject",
+  "description": "Multiproject Landing sites",
+  "main": "builds/*/index.html",
+  "authors": [
+    "Ilya Purouski"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "multiproject",
+    "LP",
+    "Landing",
+    "Page",
+    "Site"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
